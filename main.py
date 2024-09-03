@@ -1,5 +1,5 @@
 """
-why do I have to do this tf, if you read this please explain, would make more sense in the functions itself
+why do I have to do this tf, if you read this please explain, would make more sense in the functions itself done
 """
 
 import json
